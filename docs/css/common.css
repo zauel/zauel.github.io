@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+h1.title {
+    margin: 0;
+    padding: 10px;
+    background-color: #000000;
+    display: block;
+}
+
+h1.title a {
+    font-size: 200%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+section.main {
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+
+img.icon {
+    height: 16px;
+    width: 16px;
+}
+
+ul.techstack {
+    list-style: none;
+}
+
+ul.techstack li img {
+    height: 64px;
+    width: 64px;
+}
+
+ul.contact {
+    list-style: none;
+}
