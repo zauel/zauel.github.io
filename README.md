@@ -8,4 +8,4 @@
 * [Twitter](https://about.twitter.com/ja/company/brand-resources.html)
 * [Facebook](https://ja.facebookbrand.com/facebookapp/assets/f-logo)
 * [Qiita](https://help.qiita.com/ja/articles/others-brand-guideline)
-* [Scala, Go](https://svgporn.com)
+* [Google Developers, Scala, Go](https://svgporn.com)
