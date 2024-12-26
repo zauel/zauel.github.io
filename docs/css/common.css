@@ -29,9 +29,15 @@ ul.techstack {
     list-style: none;
 }
 
+ul.techstack li {
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
 ul.techstack li img {
     height: 64px;
     width: 64px;
+    margin-right: 20px;
 }
 
 ul.contact {
